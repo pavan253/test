@@ -2,6 +2,7 @@
 using namespace std;
  int main()
 {
-cout<<"hello world"<<endl;
+String str="C++";
+cout<<"hello world"<<str<<endl;
 return 0;
 }
